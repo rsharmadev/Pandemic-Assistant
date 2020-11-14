@@ -1,5 +1,5 @@
 import requests
-
+from json import loads
 
 params = {
     "iso": "USA",
@@ -10,4 +10,4 @@ r = requests.get("https://covid-api.com/api/reports/", params=params)
 print(r)
 
 with open('provinces.json', "w") as f:
-    f.write(r.text)
+    f.write(loads(r.text))
