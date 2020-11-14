@@ -2,8 +2,31 @@ import requests
 from json import loads
 from json import dumps
 
-with open("info_temp.json") as f:
+with open("info.json") as f:
     information = loads(f.read())
+
+largest = 0
+
+for key in information:
+    try:
+        temp = (information[key]["cases_total"] * 0.356) - information[key]["deaths_total"]
+    except KeyError:
+        continue
+
+    information[key]["cases_current"] = temp
+    if temp > largest:
+        largest = temp
+
+print(largest)
+
+with open("info_temp.json", "w+") as f:
+    f.write(dumps(information, indent=4))
+
+
+
+
+
+
 """
 params = {
     "iso": "USA",
@@ -13,7 +36,7 @@ params = {
 r = requests.get("https://covid-api.com/api/reports/", params=params)
 
 print(r.text)
-"""
+
 states = ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida",
           "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine",
           "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska",
@@ -45,3 +68,4 @@ for x in states:
 
 with open("info_temp.json", "w+") as f:
     f.write(dumps(information, indent=4))
+"""
