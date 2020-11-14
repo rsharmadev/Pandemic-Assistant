@@ -7,7 +7,8 @@ params = {
 }
 r = requests.get("https://covid-api.com/api/reports/", params=params)
 
-print(r)
+print(r.text)
 
 with open('provinces.json', "w") as f:
-    f.write(loads(r.text))
+    f.write(r.text)
+
