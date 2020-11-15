@@ -2,7 +2,7 @@
 <html>
 <head>
     <title></title>
-    <link rel="shortcut icon" type="image/png" href="{{ url_for('static', filename='download.png') }}">
+    <link rel="shortcut icon" type="image/png" href="{{ url_for('static', filename='favicon.png') }}">
     <meta name = "viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
@@ -69,6 +69,12 @@
             background-color: #421546;
             color:white;
             border: 1px solid white;
+        }
+        iframe {
+            border: 1px solid white;
+            margin-top: 20px;
+            width: 80%;
+            height: 30vw;
         }
     </style>
 </head>
@@ -3034,6 +3040,7 @@
                     <button type="submit">Find!</button>
                 </form>
             </div>
+            <iframe name="{{ timestamp }}" src="./drawmap" title="Map"></iframe>
         </div>
     </div>
 </body>

@@ -682,8 +682,8 @@
         "cases_diff": 91,
         "deaths_diff": 2,
         "cases_current": 6185.563999999999,
-        "latitude": "725.966738",
-        "longitude": "-2116.307711"
+        "latitude": "30.248614083333333",
+        "longitude": "-88.17948795833333"
     },
     "Alabama_Monroe": {
         "population": "21512",
@@ -943,8 +943,8 @@
         "county_fips": "02013",
         "area": "6981.943",
         "population_density": "0.49055112595447997",
-        "latitude": "988.41966",
-        "longitude": "-2921.641009"
+        "latitude": "54.91220333333334",
+        "longitude": "-162.31338938888888"
     },
     "Alaska_Aleutians West Census Area": {
         "population": "5750",
@@ -952,8 +952,8 @@
         "county_fips": "02016",
         "area": "4390.276",
         "population_density": "1.3097126467675382",
-        "latitude": "563.90136",
-        "longitude": "-1970.139548"
+        "latitude": "51.26376",
+        "longitude": "-179.1035952727273"
     },
     "Alaska_Anchorage": {
         "population": "296112",
@@ -975,8 +975,8 @@
         "county_fips": "02050",
         "area": "40570.004",
         "population_density": "0.444663500649396",
-        "latitude": "2175.5120899999997",
-        "longitude": "-6218.170020999998"
+        "latitude": "60.43089138888888",
+        "longitude": "-172.72694502777773"
     },
     "Alaska_Bristol Bay Borough": {
         "population": "890",
@@ -1029,8 +1029,8 @@
         "county_fips": "02105",
         "area": "7524.915",
         "population_density": "0.2833254594902401",
-        "latitude": "10445.956443000001",
-        "longitude": "-24308.158264999995"
+        "latitude": "57.71246653591161",
+        "longitude": "-134.29921693370162"
     },
     "Alaska_Juneau City and Borough": {
         "population": "32330",
@@ -1038,8 +1038,8 @@
         "county_fips": "02110",
         "area": "2701.931",
         "population_density": "11.965516513930222",
-        "latitude": "1919.2543599999995",
-        "longitude": "-4439.665171"
+        "latitude": "58.15922303030301",
+        "longitude": "-134.5353082121212"
     },
     "Alaska_Kenai Peninsula Borough": {
         "population": "58220",
@@ -1047,8 +1047,8 @@
         "county_fips": "02122",
         "area": "16075.331",
         "population_density": "3.6216983650289998",
-        "latitude": "27766.682116999975",
-        "longitude": "-69886.70492200002"
+        "latitude": "59.841987321120634",
+        "longitude": "-150.61789853879316"
     },
     "Alaska_Ketchikan Gateway Borough": {
         "population": "13804",
@@ -1056,8 +1056,8 @@
         "county_fips": "02130",
         "area": "4858.414",
         "population_density": "2.841256426479917",
-        "latitude": "1098.710573",
-        "longitude": "-2625.959303999999"
+        "latitude": "54.93552865",
+        "longitude": "-131.29796519999996"
     },
     "Alaska_Kodiak Island Borough": {
         "population": "13649",
@@ -1065,8 +1065,8 @@
         "county_fips": "02150",
         "area": "6549.579",
         "population_density": "2.083950739429206",
-        "latitude": "14260.655081999996",
-        "longitude": "-38135.53314700001"
+        "latitude": "57.97014260975608",
+        "longitude": "-155.0224924674797"
     },
     "Alaska_Lake and Peninsula Borough": {
         "population": "1375",
@@ -1074,8 +1074,8 @@
         "county_fips": "02164",
         "area": "23652.009",
         "population_density": "0.0581345965156702",
-        "latitude": "1357.2017799999999",
-        "longitude": "-3770.8882289999997"
+        "latitude": "56.55007416666666",
+        "longitude": "-157.12034287499998"
     },
     "Alaska_Matanuska-Susitna Borough": {
         "population": "103464",
@@ -1092,8 +1092,8 @@
         "county_fips": "02180",
         "area": "22961.761",
         "population_density": "0.43224036693004514",
-        "latitude": "11603.535526000005",
-        "longitude": "-31177.57152100001"
+        "latitude": "63.40729795628418",
+        "longitude": "-170.36924328415304"
     },
     "Alaska_North Slope Borough": {
         "population": "9797",
@@ -1119,8 +1119,8 @@
         "county_fips": "02195",
         "area": "3281.982",
         "population_density": "0.9917787483295155",
-        "latitude": "1285.5092880000002",
-        "longitude": "-3087.2434160000003"
+        "latitude": "55.89170817391305",
+        "longitude": "-134.22797460869566"
     },
     "Alaska_Prince of Wales-Hyder Census Area": {
         "population": "6474",
@@ -1128,8 +1128,8 @@
         "county_fips": "02198",
         "area": "3922.873",
         "population_density": "1.65032107845449",
-        "latitude": "2426.0531790000005",
-        "longitude": "-5786.519358"
+        "latitude": "55.13757225000001",
+        "longitude": "-131.51180359090907"
     },
     "Alaska_Sitka City and Borough": {
         "population": "8738",
@@ -1137,8 +1137,8 @@
         "county_fips": "02220",
         "area": "2870.339",
         "population_density": "3.0442397222070285",
-        "latitude": "6336.396690999998",
-        "longitude": "-14912.458160999997"
+        "latitude": "57.603606281818166",
+        "longitude": "-135.56780146363633"
     },
     "Alaska_Skagway": {
         "population": "1061",
@@ -1169,8 +1169,8 @@
         "county_fips": "02261",
         "area": "34239.88",
         "population_density": "0.27164230715761856",
-        "latitude": "3018.730782",
-        "longitude": "-7386.443156000001"
+        "latitude": "60.37461564",
+        "longitude": "-147.72886312000003"
     },
     "Alaska_Wrangell City and Borough": {
         "population": "2484",
@@ -1178,8 +1178,8 @@
         "county_fips": "02275",
         "area": "2541.483",
         "population_density": "0.9773821032837913",
-        "latitude": "9049.401285999997",
-        "longitude": "-21283.038442000015"
+        "latitude": "56.20746140372669",
+        "longitude": "-132.19278535403737"
     },
     "Alaska_Yakutat City and Borough": {
         "population": "689",
@@ -2722,8 +2722,8 @@
         "cases_diff": 2415,
         "deaths_diff": 25,
         "cases_current": 111253.93999999999,
-        "latitude": "1382.1955829999997",
-        "longitude": "-4976.768866000001"
+        "latitude": "32.90941864285713",
+        "longitude": "-118.49449680952384"
     },
     "California_Madera": {
         "population": "155013",
@@ -2988,8 +2988,8 @@
         "cases_diff": 96,
         "deaths_diff": 0,
         "cases_current": 4618.824,
-        "latitude": "416.469371",
-        "longitude": "-1346.71066"
+        "latitude": "37.86085190909091",
+        "longitude": "-122.42824181818182"
     },
     "California_San Joaquin": {
         "population": "732212",
@@ -3044,8 +3044,8 @@
         "cases_diff": 61,
         "deaths_diff": 0,
         "cases_current": 3549.6839999999997,
-        "latitude": "1902.7983089999998",
-        "longitude": "-6725.583342000002"
+        "latitude": "33.97854123214285",
+        "longitude": "-120.09970253571431"
     },
     "California_Santa Clara": {
         "population": "1922200",
@@ -3240,8 +3240,8 @@
         "cases_diff": 212,
         "deaths_diff": 0,
         "cases_current": 5529.628,
-        "latitude": "798.0744160000003",
-        "longitude": "-2868.462216"
+        "latitude": "33.253100666666676",
+        "longitude": "-119.51925899999999"
     },
     "California_Yolo": {
         "population": "214977",
@@ -3506,8 +3506,8 @@
         "cases_diff": 852,
         "deaths_diff": 5,
         "cases_current": 8929.975999999999,
-        "latitude": "39.86294238670416",
-        "longitude": "-105.53888870131081"
+        "latitude": "39.677385313670456",
+        "longitude": "-105.04693477153555"
     },
     "Colorado_Dolores": {
         "population": "1841",
@@ -3702,8 +3702,8 @@
         "cases_diff": 522,
         "deaths_diff": 11,
         "cases_current": 4493.451999999999,
-        "latitude": "198.174954",
-        "longitude": "-525.406797"
+        "latitude": "39.634990800000004",
+        "longitude": "-105.0813594"
     },
     "Colorado_Kiowa": {
         "population": "1449",
@@ -4304,8 +4304,8 @@
         "cases_diff": 313,
         "deaths_diff": 0,
         "cases_current": 5015.228,
-        "latitude": "237.535408",
-        "longitude": "-453.43028200000003"
+        "latitude": "39.58923466666666",
+        "longitude": "-75.57171366666667"
     },
     "Delaware_Sussex": {
         "population": "219540",
@@ -4579,8 +4579,8 @@
         "cases_diff": 1,
         "deaths_diff": 0,
         "cases_current": 282.936,
-        "latitude": "1008.4779430000002",
-        "longitude": "-2886.5867910000006"
+        "latitude": "29.66111597058824",
+        "longitude": "-84.89961150000002"
     },
     "Florida_Gadsden": {
         "population": "46017",
@@ -4817,8 +4817,8 @@
         "cases_diff": 259,
         "deaths_diff": 4,
         "cases_current": 8612.895999999999,
-        "latitude": "1115.0460380000002",
-        "longitude": "-3451.079868"
+        "latitude": "26.548715190476194",
+        "longitude": "-82.16856828571429"
     },
     "Florida_Leon": {
         "population": "288102",
@@ -4943,8 +4943,8 @@
         "cases_diff": 43,
         "deaths_diff": 0,
         "cases_current": 951.8639999999999,
-        "latitude": "2819.5445660000014",
-        "longitude": "-9005.182872000001"
+        "latitude": "25.17450505357144",
+        "longitude": "-80.40341850000002"
     },
     "Florida_Nassau": {
         "population": "80578",
@@ -5055,8 +5055,8 @@
         "cases_diff": 260,
         "deaths_diff": 1,
         "cases_current": 9383.576,
-        "latitude": "560.585692",
-        "longitude": "-1656.4775250000002"
+        "latitude": "28.0292846",
+        "longitude": "-82.82387625000001"
     },
     "Florida_Polk": {
         "population": "668671",
@@ -7542,8 +7542,8 @@
         "cases_diff": 2,
         "deaths_diff": 0,
         "cases_current": 27.767999999999997,
-        "latitude": "151.616783",
-        "longitude": "-1123.851746"
+        "latitude": "21.65954042857143",
+        "longitude": "-160.55024942857145"
     },
     "Hawaii_Maui": {
         "population": "165281",
@@ -7556,8 +7556,8 @@
         "cases_diff": 4,
         "deaths_diff": 0,
         "cases_current": 233.268,
-        "latitude": "1544.239711",
-        "longitude": "-11463.827732999996"
+        "latitude": "21.153968643835615",
+        "longitude": "-157.0387360684931"
     },
     "Idaho_Ada": {
         "population": "446052",
@@ -14276,8 +14276,8 @@
         "cases_diff": 2,
         "deaths_diff": 0,
         "cases_current": 89.204,
-        "latitude": "730.817625",
-        "longitude": "-1790.2578560000002"
+        "latitude": "36.54088125",
+        "longitude": "-89.5128928"
     },
     "Kentucky_Gallatin": {
         "population": "8703",
@@ -15746,8 +15746,8 @@
         "cases_diff": 52,
         "deaths_diff": 0,
         "cases_current": 1046.608,
-        "latitude": "1832.8944279999996",
-        "longitude": "-5695.778473000001"
+        "latitude": "29.562813354838703",
+        "longitude": "-91.86739472580648"
     },
     "Louisiana_Iberville": {
         "population": "32956",
@@ -16040,8 +16040,8 @@
         "cases_diff": 3,
         "deaths_diff": 0,
         "cases_current": 546.856,
-        "latitude": "4271.894353000001",
-        "longitude": "-12797.738893999995"
+        "latitude": "29.87338708391609",
+        "longitude": "-89.49467758041955"
     },
     "Louisiana_St. Charles": {
         "population": "52724",
@@ -16124,8 +16124,8 @@
         "cases_diff": 49,
         "deaths_diff": 0,
         "cases_current": 786.5519999999999,
-        "latitude": "268.599876",
-        "longitude": "-821.550034"
+        "latitude": "29.844430666666668",
+        "longitude": "-91.28333711111111"
     },
     "Louisiana_St. Mary": {
         "population": "51734",
@@ -16362,8 +16362,8 @@
         "cases_diff": 40,
         "deaths_diff": 0,
         "cases_current": 1047.128,
-        "latitude": "612.2914969999999",
-        "longitude": "-981.6286979999999"
+        "latitude": "43.735106928571426",
+        "longitude": "-70.11633557142856"
     },
     "Maine_Franklin": {
         "population": "30019",
@@ -16390,8 +16390,8 @@
         "cases_diff": 14,
         "deaths_diff": 0,
         "cases_current": 52.756,
-        "latitude": "397.043807",
-        "longitude": "-616.540293"
+        "latitude": "44.11597855555556",
+        "longitude": "-68.50447700000001"
     },
     "Maine_Kennebec": {
         "population": "121545",
@@ -16418,8 +16418,8 @@
         "cases_diff": 3,
         "deaths_diff": 0,
         "cases_current": 54.248,
-        "latitude": "613.844959",
-        "longitude": "-964.4938599999999"
+        "latitude": "43.8460685",
+        "longitude": "-68.89241857142856"
     },
     "Maine_Lincoln": {
         "population": "34067",
@@ -16432,8 +16432,8 @@
         "cases_diff": 5,
         "deaths_diff": 0,
         "cases_current": 33.532,
-        "latitude": "481.44807199999997",
-        "longitude": "-762.421981"
+        "latitude": "43.76800654545454",
+        "longitude": "-69.31108918181818"
     },
     "Maine_Oxford": {
         "population": "57325",
@@ -16516,8 +16516,8 @@
         "cases_diff": 2,
         "deaths_diff": 0,
         "cases_current": 50.928,
-        "latitude": "1284.6498970000002",
-        "longitude": "-1998.5908989999996"
+        "latitude": "44.298272310344835",
+        "longitude": "-68.91692755172413"
     },
     "Maine_Washington": {
         "population": "31694",
@@ -16530,8 +16530,8 @@
         "cases_diff": 13,
         "deaths_diff": 0,
         "cases_current": 49.483999999999995,
-        "latitude": "800.8305049999999",
-        "longitude": "-1216.6901609999998"
+        "latitude": "44.490583611111106",
+        "longitude": "-67.59389783333332"
     },
     "Maine_York": {
         "population": "203102",
@@ -16670,8 +16670,8 @@
         "cases_diff": 12,
         "deaths_diff": 0,
         "cases_current": 306.688,
-        "latitude": "2595.1635710000005",
-        "longitude": "-5172.003705999999"
+        "latitude": "38.164170161764716",
+        "longitude": "-76.05887802941174"
     },
     "Maryland_Frederick": {
         "population": "248472",
@@ -16810,8 +16810,8 @@
         "cases_diff": 12,
         "deaths_diff": 0,
         "cases_current": 180.32399999999998,
-        "latitude": "1714.991316",
-        "longitude": "-3421.2713409999997"
+        "latitude": "38.110918133333335",
+        "longitude": "-76.02825202222222"
     },
     "Maryland_Talbot": {
         "population": "37211",
@@ -16917,8 +16917,8 @@
         "cases_diff": 321,
         "deaths_diff": 4,
         "cases_current": 4691.264,
-        "latitude": "623.9206689999999",
-        "longitude": "-1062.428424"
+        "latitude": "41.59471126666666",
+        "longitude": "-70.8285616"
     },
     "Massachusetts_Dukes": {
         "population": "17313",
@@ -16926,8 +16926,8 @@
         "county_fips": "25007",
         "area": "103.245",
         "population_density": "167.68850791805897",
-        "latitude": "1575.592323",
-        "longitude": "-2690.661916000001"
+        "latitude": "41.462955868421055",
+        "longitude": "-70.80689252631582"
     },
     "Massachusetts_Essex": {
         "population": "781024",
@@ -17271,8 +17271,8 @@
         "cases_diff": 9,
         "deaths_diff": 0,
         "cases_current": 116.03999999999999,
-        "latitude": "2421.4615329999992",
-        "longitude": "-4533.747076000001"
+        "latitude": "45.68795345283017",
+        "longitude": "-85.54239766037738"
     },
     "Michigan_Cheboygan": {
         "population": "25458",
@@ -17649,8 +17649,8 @@
         "cases_diff": 2,
         "deaths_diff": 0,
         "cases_current": 11.104,
-        "latitude": "4464.991439",
-        "longitude": "-8261.904414999999"
+        "latitude": "48.01066063440861",
+        "longitude": "-88.83768188172041"
     },
     "Michigan_Lake": {
         "population": "11763",
@@ -17691,8 +17691,8 @@
         "cases_diff": 11,
         "deaths_diff": 0,
         "cases_current": 83.79599999999999,
-        "latitude": "4410.711697000001",
-        "longitude": "-8401.855296"
+        "latitude": "45.007262214285724",
+        "longitude": "-85.73321730612244"
     },
     "Michigan_Lenawee": {
         "population": "98474",
@@ -17747,8 +17747,8 @@
         "cases_diff": 3,
         "deaths_diff": 0,
         "cases_current": 75.116,
-        "latitude": "2427.3326359999996",
-        "longitude": "-4479.441385000001"
+        "latitude": "45.79872898113207",
+        "longitude": "-84.5177619811321"
     },
     "Michigan_Macomb": {
         "population": "868704",
@@ -19777,8 +19777,8 @@
         "cases_diff": 52,
         "deaths_diff": 0,
         "cases_current": 2153.836,
-        "latitude": "302.311306",
-        "longitude": "-890.9046860000001"
+        "latitude": "30.2311306",
+        "longitude": "-89.09046860000001"
     },
     "Mississippi_Hinds": {
         "population": "241774",
@@ -19861,8 +19861,8 @@
         "cases_diff": 73,
         "deaths_diff": 2,
         "cases_current": 1902.84,
-        "latitude": "1857.2572910000001",
-        "longitude": "-5403.440970000001"
+        "latitude": "30.446840836065576",
+        "longitude": "-88.58099950819673"
     },
     "Mississippi_Jasper": {
         "population": "16529",
@@ -26067,8 +26067,8 @@
         "cases_diff": 428,
         "deaths_diff": 0,
         "cases_current": 16664.507999999998,
-        "latitude": "698.524554",
-        "longitude": "-1225.956834"
+        "latitude": "41.08967964705882",
+        "longitude": "-72.11510788235294"
     },
     "New York_Sullivan": {
         "population": "75211",
@@ -26179,8 +26179,8 @@
         "cases_diff": 364,
         "deaths_diff": 1,
         "cases_current": 14058.536,
-        "latitude": "613.268185",
-        "longitude": "-1106.54134"
+        "latitude": "40.88454566666667",
+        "longitude": "-73.76942266666667"
     },
     "New York_Wyoming": {
         "population": "40565",
@@ -26594,8 +26594,8 @@
         "county_fips": "37055",
         "area": "383.42",
         "population_density": "93.21631631109489",
-        "latitude": "3424.649447",
-        "longitude": "-7340.954384",
+        "latitude": "35.30566440206185",
+        "longitude": "-75.67994210309278",
         "cases_total": 510,
         "deaths_total": 3,
         "cases_diff": 14,
@@ -28657,8 +28657,8 @@
         "cases_diff": 58,
         "deaths_diff": 1,
         "cases_current": 521.348,
-        "latitude": "624.082371",
-        "longitude": "-1240.533784"
+        "latitude": "41.6054914",
+        "longitude": "-82.70225226666666"
     },
     "Ohio_Fairfield": {
         "population": "152910",
@@ -29217,8 +29217,8 @@
         "cases_diff": 40,
         "deaths_diff": 0,
         "cases_current": 289.332,
-        "latitude": "541.491662",
-        "longitude": "-1076.625787"
+        "latitude": "41.65320476923077",
+        "longitude": "-82.81736823076923"
     },
     "Ohio_Paulding": {
         "population": "18872",
@@ -32143,8 +32143,8 @@
         "cases_diff": 0,
         "deaths_diff": 0,
         "cases_current": 312.536,
-        "latitude": "830.1425149999999",
-        "longitude": "-1427.6267339999997"
+        "latitude": "41.50712574999999",
+        "longitude": "-71.38133669999999"
     },
     "Rhode Island_Providence": {
         "population": "634533",
@@ -32171,8 +32171,8 @@
         "cases_diff": 0,
         "deaths_diff": 0,
         "cases_current": 490.312,
-        "latitude": "988.4557339999999",
-        "longitude": "-1717.7621789999998"
+        "latitude": "41.18565558333333",
+        "longitude": "-71.57342412499999"
     },
     "South Carolina_Abbeville": {
         "population": "24657",
@@ -33879,8 +33879,8 @@
         "cases_diff": 19,
         "deaths_diff": 0,
         "cases_current": 452.64799999999997,
-        "latitude": "48.98584645000001",
-        "longitude": "-117.63171449999997"
+        "latitude": "36.28378300000001",
+        "longitude": "-87.13076014999999"
     },
     "Tennessee_Chester": {
         "population": "17150",
@@ -34033,8 +34033,8 @@
         "cases_diff": 41,
         "deaths_diff": 0,
         "cases_current": 773.728,
-        "latitude": "254.041269",
-        "longitude": "-610.0190870000001"
+        "latitude": "36.29160985714286",
+        "longitude": "-87.14558385714288"
     },
     "Tennessee_Dyer": {
         "population": "37576",
@@ -34901,8 +34901,8 @@
         "cases_diff": 59,
         "deaths_diff": 1,
         "cases_current": 1006.096,
-        "latitude": "921.7080650000001",
-        "longitude": "-2342.029827"
+        "latitude": "35.4503101923077",
+        "longitude": "-90.07807026923076"
     },
     "Tennessee_Trousdale": {
         "population": "9573",
@@ -35111,8 +35111,8 @@
         "cases_diff": 4,
         "deaths_diff": 0,
         "cases_current": 114.78799999999998,
-        "latitude": "1400.878039",
-        "longitude": "-4846.698034"
+        "latitude": "28.01756078",
+        "longitude": "-96.93396068"
     },
     "Texas_Archer": {
         "population": "8789",
@@ -35461,8 +35461,8 @@
         "cases_diff": 2,
         "deaths_diff": 0,
         "cases_current": 329.2,
-        "latitude": "1539.190372",
-        "longitude": "-5217.144356"
+        "latitude": "28.50352540740741",
+        "longitude": "-96.61378437037037"
     },
     "Texas_Callahan": {
         "population": "13770",
@@ -36231,8 +36231,8 @@
         "cases_diff": 132,
         "deaths_diff": 1,
         "cases_current": 4595.552,
-        "latitude": "1267.4147049999997",
-        "longitude": "-4068.3287759999994"
+        "latitude": "29.47476058139534",
+        "longitude": "-94.61229711627905"
     },
     "Texas_Garza": {
         "population": "6288",
@@ -36889,8 +36889,8 @@
         "cases_diff": 0,
         "deaths_diff": 0,
         "cases_current": 1.916,
-        "latitude": "2057.037736",
-        "longitude": "-7493.064614"
+        "latitude": "26.714775792207796",
+        "longitude": "-97.31252745454546"
     },
     "Texas_Kent": {
         "population": "749",
@@ -36973,8 +36973,8 @@
         "cases_diff": 37,
         "deaths_diff": 0,
         "cases_current": 343.296,
-        "latitude": "1422.5324119999996",
-        "longitude": "-5072.213227999998"
+        "latitude": "27.35639253846153",
+        "longitude": "-97.54256207692303"
     },
     "Texas_Knox": {
         "population": "3733",
@@ -39117,8 +39117,8 @@
         "cases_diff": 3,
         "deaths_diff": 0,
         "cases_current": 423.28799999999995,
-        "latitude": "4120.200109000001",
-        "longitude": "-8244.815184000001"
+        "latitude": "37.80000100000001",
+        "longitude": "-75.64050627522937"
     },
     "Virginia_Albemarle": {
         "population": "106355",
@@ -39131,8 +39131,8 @@
         "cases_diff": -1,
         "deaths_diff": 0,
         "cases_current": 575.928,
-        "latitude": "51.62694064285714",
-        "longitude": "-106.5095525"
+        "latitude": "38.043211071428566",
+        "longitude": "-78.47708342857142"
     },
     "Virginia_Alleghany": {
         "population": "15286",
@@ -39145,8 +39145,8 @@
         "cases_diff": -2,
         "deaths_diff": 0,
         "cases_current": 75.16799999999999,
-        "latitude": "55.636235605263174",
-        "longitude": "-118.0487575789474"
+        "latitude": "37.73629439473685",
+        "longitude": "-80.16008213157895"
     },
     "Virginia_Amelia": {
         "population": "12854",
@@ -39215,8 +39215,8 @@
         "cases_diff": 14,
         "deaths_diff": 0,
         "cases_current": 291.532,
-        "latitude": "51.40969593103446",
-        "longitude": "-106.45633358620687"
+        "latitude": "38.26851489655172",
+        "longitude": "-79.21895910344827"
     },
     "Virginia_Bath": {
         "population": "4393",
@@ -39243,8 +39243,8 @@
         "cases_diff": 18,
         "deaths_diff": 0,
         "cases_current": 516.0,
-        "latitude": "44.54194526923076",
-        "longitude": "-94.89530557692309"
+        "latitude": "37.362479884615375",
+        "longitude": "-79.60247184615386"
     },
     "Virginia_Bland": {
         "population": "6447",
@@ -39509,8 +39509,8 @@
         "cases_diff": 135,
         "deaths_diff": 1,
         "cases_current": 8695.84,
-        "latitude": "43.40662476470587",
-        "longitude": "-86.28476441176471"
+        "latitude": "38.835852725490184",
+        "longitude": "-77.18950590196079"
     },
     "Virginia_Fauquier": {
         "population": "69115",
@@ -39579,8 +39579,8 @@
         "cases_diff": 35,
         "deaths_diff": 1,
         "cases_current": 492.012,
-        "latitude": "45.95503720689655",
-        "longitude": "-91.85380089655175"
+        "latitude": "39.19990903448276",
+        "longitude": "-78.37557151724138"
     },
     "Virginia_Giles": {
         "population": "16814",
@@ -39663,8 +39663,8 @@
         "cases_diff": 1,
         "deaths_diff": 0,
         "cases_current": 312.164,
-        "latitude": "46.45286205263158",
-        "longitude": "-97.98496863157895"
+        "latitude": "36.79680763157894",
+        "longitude": "-77.58014894736841"
     },
     "Virginia_Halifax": {
         "population": "34779",
@@ -39719,8 +39719,8 @@
         "cases_diff": 16,
         "deaths_diff": 1,
         "cases_current": 518.004,
-        "latitude": "71.08383843749999",
-        "longitude": "-154.83307525"
+        "latitude": "36.7024078125",
+        "longitude": "-79.95487493750001"
     },
     "Virginia_Highland": {
         "population": "2214",
@@ -40125,8 +40125,8 @@
         "cases_diff": 102,
         "deaths_diff": 0,
         "cases_current": 5342.688,
-        "latitude": "58.618416666666675",
-        "longitude": "-117.30838666666666"
+        "latitude": "38.65088466666668",
+        "longitude": "-77.40318539393937"
     },
     "Virginia_Pulaski": {
         "population": "34234",
@@ -40181,8 +40181,8 @@
         "cases_diff": 30,
         "deaths_diff": 2,
         "cases_current": 705.8,
-        "latitude": "79.53781766666667",
-        "longitude": "-170.69045933333337"
+        "latitude": "37.26487853333333",
+        "longitude": "-80.05230833333333"
     },
     "Virginia_Rockbridge": {
         "population": "22509",
@@ -40195,8 +40195,8 @@
         "cases_diff": 10,
         "deaths_diff": 0,
         "cases_current": 65.352,
-        "latitude": "72.41241891666667",
-        "longitude": "-152.20546841666672"
+        "latitude": "37.80688000000001",
+        "longitude": "-79.41928058333333"
     },
     "Virginia_Rockingham": {
         "population": "79444",
@@ -40209,8 +40209,8 @@
         "cases_diff": 10,
         "deaths_diff": 0,
         "cases_current": 663.776,
-        "latitude": "45.444181428571426",
-        "longitude": "-93.10647746428572"
+        "latitude": "38.577070428571425",
+        "longitude": "-79.02243732142857"
     },
     "Virginia_Russell": {
         "population": "27408",
@@ -40405,8 +40405,8 @@
         "cases_diff": 26,
         "deaths_diff": 1,
         "cases_current": 335.524,
-        "latitude": "39.962921854838704",
-        "longitude": "-89.439430016129"
+        "latitude": "36.98468419354839",
+        "longitude": "-82.77586575806448"
     },
     "Virginia_Wythe": {
         "population": "28940",
@@ -41005,8 +41005,8 @@
         "cases_diff": 18,
         "deaths_diff": 0,
         "cases_current": 160.66,
-        "latitude": "6403.786189999999",
-        "longitude": "-16300.186439000006"
+        "latitude": "48.14876834586465",
+        "longitude": "-122.55779277443614"
     },
     "Washington_Jefferson": {
         "population": "30856",
@@ -41033,8 +41033,8 @@
         "cases_diff": 570,
         "deaths_diff": -2,
         "cases_current": 10927.307999999999,
-        "latitude": "1516.713912",
-        "longitude": "-3919.02437"
+        "latitude": "47.39730975",
+        "longitude": "-122.4695115625"
     },
     "Washington_Kitsap": {
         "population": "262475",
@@ -41187,8 +41187,8 @@
         "cases_diff": 3,
         "deaths_diff": 0,
         "cases_current": 15.664,
-        "latitude": "5147.790072",
-        "longitude": "-13033.860048"
+        "latitude": "48.56405728301887",
+        "longitude": "-122.9609438490566"
     },
     "Washington_Skagit": {
         "population": "123907",
@@ -41201,8 +41201,8 @@
         "cases_diff": 28,
         "deaths_diff": 0,
         "cases_current": 523.24,
-        "latitude": "1019.5520360000002",
-        "longitude": "-2575.092417"
+        "latitude": "48.55009695238096",
+        "longitude": "-122.62344842857142"
     },
     "Washington_Skamania": {
         "population": "11620",
@@ -41229,8 +41229,8 @@
         "cases_diff": 257,
         "deaths_diff": -1,
         "cases_current": 3624.144,
-        "latitude": "336.10049999999995",
-        "longitude": "-856.242508"
+        "latitude": "48.014357142857136",
+        "longitude": "-122.32035828571429"
     },
     "Washington_Spokane": {
         "population": "497875",
@@ -41313,8 +41313,8 @@
         "cases_diff": 46,
         "deaths_diff": -1,
         "cases_current": 596.632,
-        "latitude": "4051.952103999999",
-        "longitude": "-10163.312721"
+        "latitude": "48.81870004819276",
+        "longitude": "-122.44955085542169"
     },
     "Washington_Whitman": {
         "population": "48593",
@@ -42139,8 +42139,8 @@
         "cases_diff": 18,
         "deaths_diff": 0,
         "cases_current": 170.864,
-        "latitude": "3763.4895100000003",
-        "longitude": "-7233.962384000001"
+        "latitude": "47.04361887500001",
+        "longitude": "-90.42452980000002"
     },
     "Wisconsin_Barron": {
         "population": "45252",
@@ -42321,8 +42321,8 @@
         "cases_diff": 46,
         "deaths_diff": 0,
         "cases_current": 498.368,
-        "latitude": "6761.372607999997",
-        "longitude": "-12946.484960000009"
+        "latitude": "45.37833965100669",
+        "longitude": "-86.88916080536919"
     },
     "Wisconsin_Douglas": {
         "population": "43402",
@@ -42643,8 +42643,8 @@
         "cases_diff": 57,
         "deaths_diff": 0,
         "cases_current": 904.1759999999999,
-        "latitude": "2162.800482",
-        "longitude": "-4199.8540219999995"
+        "latitude": "45.058343375",
+        "longitude": "-87.49695879166666"
     },
     "Wisconsin_Marquette": {
         "population": "15207",
@@ -43443,35 +43443,5 @@
         "cases_current": 117.47999999999999,
         "latitude": "43.779159750000005",
         "longitude": "-104.2358120625"
-    },
-    "highest": {
-        "population": {
-            "state_fips": "06",
-            "county_fips": "06037",
-            "county": "Los Angeles",
-            "state": "California",
-            "value": "10098052"
-        },
-        "population_density": {
-            "state_fips": "06",
-            "county_fips": "06075",
-            "county": "San Francisco",
-            "state": "California",
-            "value": "18561.73063384038"
-        },
-        "daily_increase": {
-            "state_fips": "17",
-            "county_fips": "17031",
-            "county": "Cook",
-            "state": "Illinois",
-            "value": "5945"
-        },
-        "current_cases": {
-            "state_fips": "06",
-            "county_fips": "06037",
-            "county": "Los Angeles",
-            "state": "California",
-            "value": "111253.93999999999"
-        }
     }
 }
