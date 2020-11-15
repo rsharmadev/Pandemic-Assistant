@@ -114,4 +114,4 @@ def draw_map():
     return render_template('heatmap.html')
 
 
-app.run(host="192.168.1.15", port=5000)
+app.run(host="localhost", port=5000)
