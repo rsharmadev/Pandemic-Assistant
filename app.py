@@ -7,10 +7,9 @@ import requests
 import json
 import os
 from datetime import datetime
-from datetime import timedelta
 
 app = Flask(__name__, static_folder=os.getcwd())
-app.config["SEND_FILE_MAX_AGE_DEFAULT"] = timedelta(seconds=0)
+app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 0
 
 """
 Problem: Markers are not properly added to the map. If you shut off the server, reboot it, then auto-serve the POST 
@@ -95,6 +94,7 @@ def draw_map():
         print(counties)
 
     points_to_render = epicenters + counties
+    print(points_to_render)
 
     for item in points_to_render:
         for key, value in information.items():
@@ -109,9 +109,12 @@ def draw_map():
                                        max_width=300),
                     icon=folium.Icon(color='blue'),
                 ).add_to(m)
+
+    print(m.to_json())
+
     m.save('./templates/heatmap.html')
 
-    return render_template('heatmap.html')
+    return open("./templates/heatmap.html").read()
 
 
 app.run(host="localhost", port=5000)
