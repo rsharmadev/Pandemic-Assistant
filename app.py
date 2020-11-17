@@ -34,19 +34,22 @@ information = json.loads(open("info.json").read())
 
 @app.route("/", methods=["POST", "GET"])
 def main():
-    global counties
+    global counties, show_spread_zones
     current_time = str((datetime.now() - datetime(1970, 1, 1)).total_seconds())
     if request.method == "GET":
         counties = []
+        show_spread_zones = False
         return render_template("main.html", timestamp=current_time)
     elif request.method == "POST":
         form_data = dict(request.form)
         county = form_data["county_input"].split(", ")
-        county_string = county[1] + "_" + county[0]
+        try:
+            county_string = county[1] + "_" + county[0]
+            if county_string not in counties:
+                counties.append(county_string)
+        except IndexError:
+            pass
 
-        counties.append(county_string)
-
-        global show_spread_zones
         try:
             checkbox = form_data["checkbox_name"] == "on"
         except KeyError:
@@ -58,7 +61,10 @@ def main():
 
 @app.route('/drawmap')
 def draw_map():
-    os.remove("./templates/heatmap.html")
+    try:
+        os.remove("./templates/heatmap.html")
+    except FileNotFoundError:
+        pass
     global show_spread_zones, counties, epicenters
 
     map_data = pd.read_csv("data.csv", sep=',')
@@ -90,8 +96,27 @@ def draw_map():
     ).add_to(m)
 
     if show_spread_zones:
-        print("Display heatmap")
-        print(counties)
+        hmap_lat = []
+        hmap_long = []
+        hmap_indexes = []
+        for x in map_data.indexlol.values.tolist():
+            if x > 1.5:
+                x_index = map_data.indexlol.values.tolist().index(x)
+                hmap_lat.append(list(map_data.latitude.values)[x_index])
+                hmap_long.append(list(map_data.longitude.values)[x_index])
+                hmap_indexes.append(x)
+
+        hmap_lat = tuple(hmap_lat)
+        hmap_long = tuple(hmap_long)
+        hmap_indexes = tuple(hmap_indexes)
+
+        hmap = HeatMap(list(zip(hmap_lat, hmap_long, hmap_indexes)),
+                       min_opacity=0.5,
+                       radius=40,
+                       blur=17,
+                       max_zoom=1)
+
+        m.add_child(hmap)
 
     points_to_render = epicenters + counties
     print(points_to_render)
