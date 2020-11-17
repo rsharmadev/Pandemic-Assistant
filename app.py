@@ -11,18 +11,6 @@ from datetime import datetime
 app = Flask(__name__, static_folder=os.getcwd())
 app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 0
 
-"""
-Problem: Markers are not properly added to the map. If you shut off the server, reboot it, then auto-serve the POST 
-request again, it adds that one marker.
-
-I haven't found a solution for the issue yet. My only assumption is that either the browser's TTL or Flask's TTL is 
-caching the GET request of the page, so the data remains.
-
-The map object gets the added Marker, so it's not purely code related to my knowledge.
-
-- Ian
-"""
-
 show_spread_zones = False
 epicenters = ["Illinois_Cook", "California_Los Angeles", "California_San Francisco", "New York_Erie",
               "Oregon_Multnomah", "Florida_Miami-Dade", "Texas_Harris", "Georgia_Fulton", "Michigan_Wayne"]

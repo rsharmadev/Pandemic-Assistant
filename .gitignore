@@ -1,4 +1,6 @@
 templates/heatmap.html
+data.csv
+info.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

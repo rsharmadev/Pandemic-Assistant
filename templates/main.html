@@ -8,6 +8,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
 
     <style type="text/css">
+        html {
+            overflow-y: hidden
+        }
         body {
             background-image:radial-gradient(#26062F, #310f3a)
         }
@@ -15,7 +18,7 @@
             margin: auto;
             margin-top: 2%;
             width: 95%;
-            height: 900px;
+            height: 850px;
             background-color: #E7E1E1;
             opacity: 90%;
             border-radius: 3vw;
@@ -74,7 +77,7 @@
             border: 1px solid white;
             margin-top: 20px;
             width: 80%;
-            height: 30vw;
+            height: 28vw;
         }
     </style>
 </head>
@@ -84,7 +87,7 @@
             <h1>Pandemic Tracker</h1>
             <div class = "formData">
                 <form action="/" method="post">
-                    <input name="county_input" placeholder = "County Select" id="countyList" list="suggestions" />
+                    <input name="county_input" placeholder = "County Select" id="countyList" onchange="this.form.submit()" list="suggestions" />
                         <datalist id="suggestions">
                             <option value="Autauga, Alabama">
                                 <option value="Baldwin, Alabama">
@@ -3035,9 +3038,8 @@
                                 
                         </datalist><br>
                     <div class = "checkbox">
-                        <input name="checkbox_name" id="checkbox_id" type="checkbox" /><label id="white">Show Potential Spread-zones</label>
+                        <input name="checkbox_name" id="checkbox_id" type="checkbox" onchange="this.form.submit()" /><label id="white">Show Potential Spread-zones</label>
                     </div>
-                    <button type="submit">Find!</button>
                 </form>
             </div>
             <iframe name="{{ timestamp }}" src="./drawmap" title="Map"></iframe>
